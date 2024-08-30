@@ -30,24 +30,11 @@
       <kbd>Programming and Markup Languages</kbd>
       <br>
       <br>
-        <a href="https://julialang.org" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" /></a>
         <a href="https://www.python.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-        <a href="https://www.lua.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" /></a>
+        <a href="https://www.w3.org/Style/CSS/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/css-original.svg" /></a>
         <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
     </kbd>
       <br>
-    <kbd>
-      <kbd>Data Science & AI</kbd>
-      <br>
-      <br>
-      <a href='https://www.tensorflow.org/' target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-      <a href="https://fluxml.ai/" target="_blank"><img width="30px" src="https://avatars.githubusercontent.com/u/26222520?s=280&v=4" /></a>
-      <a href="https://numpy.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
-      <a href="https://pandas.pydata.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
-      <a href="https://matplotlib.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></a>
-      <a href="https://scikit-learn.org/stable/" target="_blank"><img width="30px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.png" /></a>
-      <a href="https://opencv.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /></a>
-    </kbd>
     <kbd>
       <kbd>Backend</kbd>
       <br>
