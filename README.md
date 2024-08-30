@@ -27,7 +27,7 @@
  <kbd>
       <br>
     <kbd>
-      <kbd>Programming and Markup Languages</kbd>
+      <kbd>Frontend</kbd>
       <br>
       <br>
         <a href="https://www.python.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
