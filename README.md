@@ -36,12 +36,6 @@
     </kbd>
       <br>
     <kbd>
-      <kbd>Backend</kbd>
-      <br>
-      <br>
-        <a href="https://www.djangoproject.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a>
-    </kbd>
-    <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
