@@ -30,29 +30,10 @@
       <kbd>Frontend</kbd>
       <br>
       <br>
-        <a href="https://www.python.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
         <a href="https://www.w3.org/Style/CSS/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/css-original.svg" /></a>
         <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
     </kbd>
       <br>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
-      <a href="https://www.postgresql.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></a>
-    </kbd>
-      <br>
-    <kbd>
-      <kbd>System, Networking & Deployment</kbd>
-      <br>
-      <br>
-      <a href="https://www.heroku.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></a>
-      <a href="https://git-scm.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
-      <a href="https://www.docker.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
-      <a href="https://railway.app/" target="_blank"><img width="30px" src="https://railway.app/brand/logo-light.svg" /></a>
-    </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
       <br>
@@ -60,40 +41,9 @@
         <a href="https://www.gnu.org/software/bash/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
         <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
     </kbd>
-    <kbd>
-      <kbd>Text editor, IDE, Notebook</kbd>
-      <br>
-      <br>
-      <a href="https://www.vim.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
-      <a href="https://plutojl.org/" target="_blank"><img width="30px" src="https://juliacomputing.gallerycdn.vsassets.io/extensions/juliacomputing/pluto-vscode/0.1.2/1649235051665/Microsoft.VisualStudio.Services.Icons.Default" /></a>
-      <a href="https://jupyter.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
-      <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /></a>
-      </kbd>
-</p>
 
 <br/>
 
-## 📈 Github Profile Stats
-
-<p align="center">
-    <a href="https://github.com/Tiik0">
-        <img height="180em" src="https://streak-stats.demolab.com?user=Tiik0&theme=tokyonight&hide_border=true&border_radius="/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiik0&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiik0&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
-    </a>
-</p>
-
-<br/>
-
-## 🏆 Github Profile Trophy
-
-<p align="left">
-    <a href="https://github.com/hungpham3112">
-        <img height="180em"
-        src="https://github-profile-trophy.vercel.app/?username=hungpham3112&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2020,Issues,PullRequest,Commits,Repositories"/>
-</a>
-</p>
 
 ## 📬 Contact me
 
